@@ -1,0 +1,34 @@
+Tea with Nessie merge summary
+==============================
+Letters created: 24
+
+Venue counts:
+- Dores Inn Lochside Pavilion: 8
+- Fort Augustus Abbey Conservatory: 8
+- Urquhart Castle Tea Lawn: 8
+
+Generated files:
+- invitation_NESS-1001_Mhairi_Grant.docx
+- invitation_NESS-1002_Isla_Stewart.docx
+- invitation_NESS-1003_Maisie_MacLeod.docx
+- invitation_NESS-1004_Maisie_Ross.docx
+- invitation_NESS-1005_Struan_Drummond.docx
+- invitation_NESS-1006_Catriona_Kerr.docx
+- invitation_NESS-1007_Murray_Buchanan.docx
+- invitation_NESS-1008_Rory_Kerr.docx
+- invitation_NESS-1009_Gregor_MacDonald.docx
+- invitation_NESS-1010_Struan_Douglas.docx
+- invitation_NESS-1011_Hamish_Kerr.docx
+- invitation_NESS-1012_Fiona_Murray.docx
+- invitation_NESS-1013_Fiona_MacTavish.docx
+- invitation_NESS-1014_Maisie_Fraser.docx
+- invitation_NESS-1015_Ailsa_Drummond.docx
+- invitation_NESS-1016_Struan_Robertson.docx
+- invitation_NESS-1017_Maisie_Cameron.docx
+- invitation_NESS-1018_Ailsa_Douglas.docx
+- invitation_NESS-1019_Struan_Stewart.docx
+- invitation_NESS-1020_Shona_Campbell.docx
+- invitation_NESS-1021_Iain_Ross.docx
+- invitation_NESS-1022_Aoife_Campbell.docx
+- invitation_NESS-1023_Alistair_Farquharson.docx
+- invitation_NESS-1024_Aoife_Farquharson.docx
