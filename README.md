@@ -30,3 +30,11 @@ Python · openpyxl · python-docx · regex-based field validation
 
 ---
 Built by Niyat Thapa. AI tools (ChatGPT, Claude) were used to help debug and improve parts of the script; the plan, data structure, and final work were reviewed and are owned by the author.
+
+## Author
+
+**Niyat Thapa** — Finance student at the University of Lethbridge.
+
+- GitHub: [Immortal-Ancestor](https://github.com/Immortal-Ancestor)
+- Portfolio: [immortal-ancestor.github.io](https://immortal-ancestor.github.io/)
+- LinkedIn: [Niyat Thapa](https://www.linkedin.com/in/niyat-thapa-229028308)
